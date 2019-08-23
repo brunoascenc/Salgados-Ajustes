@@ -1,11 +1,23 @@
-#PatSalgados
+# Pat Salgados
 
-Pat salgados é um simples site de uma página responsiva sobre venda de salgados e lanches.
+Pat salgados é um site para encomendas de salgados e lanches.
 
-#Construido com
+## Motivação
 
--HTML5
+Me inspirei em um estabelecimento que vende salgados e lanches no meu bairro, quis
+fazer algo para que possa ser feito encomendas online.
 
--CSS
+## Screenshots
+![](img/patsalgprint.png)
 
--JavaScript
+## Construido com
+
+* HTML5
+
+* CSS
+
+* JavaScript
+
+* https://github.com/cferdinandi/smooth-scroll 
+
+* https://michalsnik.github.io/aos/
